@@ -1,0 +1,11 @@
+---
+title: "A2_plots"
+author: "Barnabás Buzás"
+date: '2021 06 12 '
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
