@@ -61,3 +61,10 @@ aggdata1 %>%
 commute_mode <- readr::read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-11-05/commute.csv")
 ```
 
+```{r}
+# Third plot
+
+# I tried a lot, but I could not even start this :( 
+
+```
+
